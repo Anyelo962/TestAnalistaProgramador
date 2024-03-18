@@ -1,0 +1,6 @@
+@ImpuestosInternos.WebApi_HostAddress = http://localhost:5254
+
+GET {{ImpuestosInternos.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

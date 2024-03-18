@@ -1,0 +1,17 @@
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/bin/Debug/net8.0/ImpuestosInternos.WebApi.Infrastructure.deps.json
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/bin/Debug/net8.0/ImpuestosInternos.WebApi.Infrastructure.runtimeconfig.json
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/bin/Debug/net8.0/ImpuestosInternos.WebApi.Infrastructure.dll
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/bin/Debug/net8.0/ImpuestosInternos.WebApi.Infrastructure.pdb
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/bin/Debug/net8.0/ImpuestosInternos.WebApi.Core.dll
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/bin/Debug/net8.0/ImpuestosInternos.WebApi.Core.pdb
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/obj/Debug/net8.0/ImpuestosInternos.WebApi.Infrastructure.csproj.AssemblyReference.cache
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/obj/Debug/net8.0/ImpuestosInternos.WebApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/obj/Debug/net8.0/ImpuestosInternos.WebApi.Infrastructure.AssemblyInfoInputs.cache
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/obj/Debug/net8.0/ImpuestosInternos.WebApi.Infrastructure.AssemblyInfo.cs
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/obj/Debug/net8.0/ImpuestosInternos.WebApi.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/obj/Debug/net8.0/ImpuestosInternos.WebApi.Infrastructure.csproj.CopyComplete
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/obj/Debug/net8.0/ImpuestosInternos.WebApi.Infrastructure.dll
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/obj/Debug/net8.0/refint/ImpuestosInternos.WebApi.Infrastructure.dll
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/obj/Debug/net8.0/ImpuestosInternos.WebApi.Infrastructure.pdb
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/obj/Debug/net8.0/ImpuestosInternos.WebApi.Infrastructure.genruntimeconfig.cache
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi.Infrastructure/obj/Debug/net8.0/ref/ImpuestosInternos.WebApi.Infrastructure.dll
