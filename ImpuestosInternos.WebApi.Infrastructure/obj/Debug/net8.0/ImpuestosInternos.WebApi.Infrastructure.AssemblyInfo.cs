@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImpuestosInternos.WebApi.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92f77e97899ef0f7114567986eb0a55e2a38e3f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImpuestosInternos.WebApi.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImpuestosInternos.WebApi.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

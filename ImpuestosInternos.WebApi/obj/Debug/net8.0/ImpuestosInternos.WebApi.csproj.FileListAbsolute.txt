@@ -140,3 +140,4 @@
 /Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi/bin/Debug/net8.0/ImpuestosInternos.WebApi.Infrastructure.pdb
 /Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi/bin/Debug/net8.0/ImpuestosInternos.WebApi.Core.pdb
 /Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi/bin/Debug/net8.0/AutoMapper.dll
+/Users/anyelovinzen/RiderProjects/ImpuestosInternos.WebApi/ImpuestosInternos.WebApi/obj/Debug/net8.0/ImpuestosInternos.WebApi.sourcelink.json

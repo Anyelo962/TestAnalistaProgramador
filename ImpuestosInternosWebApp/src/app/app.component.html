@@ -1,6 +1,45 @@
 
 
+<ul  *ngFor="let item of items">
+    <li>{{ item.id }}</li>
+</ul>
 
 
-
-<h1>Hello world</h1>
+<div class="list-container">
+    <ul class="main-list">
+      <li>
+        <div class="item" (click)="toggleSublist($event)">
+          Elemento 1
+          <span class="arrow">&#9660;</span>
+        </div>
+        <ul class="sub-list">
+          <li>Subelemento 1</li>
+          <li>Subelemento 2</li>
+          <li>Subelemento 3</li>
+        </ul>
+      </li>
+      <li>
+        <div class="item" (click)="toggleSublist($event)">
+          Elemento 2
+          <span class="arrow">&#9660;</span>
+        </div>
+        <ul class="sub-list">
+          <li>Subelemento A</li>
+          <li>Subelemento B</li>
+          <li>Subelemento C</li>
+        </ul>
+      </li>
+      <li>
+        <div class="item" (click)="toggleSublist($event)">
+          Elemento 3
+          <span class="arrow">&#9660;</span>
+        </div>
+        <ul class="sub-list">
+          <li>Subelemento X</li>
+          <li>Subelemento Y</li>
+          <li>Subelemento Z</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  

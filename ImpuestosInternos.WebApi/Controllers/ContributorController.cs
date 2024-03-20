@@ -24,8 +24,6 @@ public class ContributorController : ControllerBase
         _typeContributorRepository = typeContributorRepository;
         _fiscalReceiptRepository = fiscalReceiptRepository;
         _mapper = mapper;
-
-        //AddManualData().Wait();
     }
 
 
@@ -40,15 +38,15 @@ public class ContributorController : ControllerBase
     }
     
     [HttpGet("all", Name = "GetallContrubutor")]
-    public async Task<ActionResult<ApiResponse>> GetAllContributor()
-    {
-        var getList = await _contributorRepository.GetAll();
+     public async Task<ActionResult<ApiResponse>> GetAllContributor()
+     {
+         var getList = await _contributorRepository.GetAll();
     
-        var contributorDto = _mapper.Map<IEnumerable<ContributorDto>>(getList);
-        
-        return new ApiResponse(true, Response.StatusCode.ToString(), contributorDto );
-    }
-
+         var contributorDto = _mapper.Map<IEnumerable<ContributorDto>>(getList);
+         
+         return new ApiResponse(true, Response.StatusCode.ToString(), contributorDto );
+     }
+    
     [HttpGet]
     public async Task<ActionResult<ApiResponse>> GetFiscalReceipByContributor(int id)
     {
@@ -60,6 +58,15 @@ public class ContributorController : ControllerBase
 
         return new ApiResponse(true,Response.StatusCode.ToString(),mapper);
     }
+
+
+    [HttpPost("loadData", Name = "LoadData")]
+    public async Task<ActionResult> LoadData()
+    {
+        AddManualData().Wait();
+        return Ok();
+    }
+    
     
     private async Task AddManualData()
     {

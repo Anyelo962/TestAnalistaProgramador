@@ -26,8 +26,19 @@ builder.Services.AddTransient<IFiscalReceiptRepository, FiscalReceipRepository>(
 builder.Services.AddScoped(typeof(IBaseRepository<>), typeof(BaseRepository<>));
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
+var corsClient = "CorsClient";
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name:corsClient,policy =>
+        policy.WithOrigins("https://localhost:7083/")
+            .AllowAnyHeader()
+            .AllowAnyMethod()
+            .AllowAnyOrigin());
+});
+
 var app = builder.Build();
 
+app.UseCors(corsClient);
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
